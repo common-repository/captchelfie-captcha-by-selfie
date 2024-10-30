@@ -1,0 +1,303 @@
+# Loco Gettext template
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: API.BIO Captchelfie - Captcha by Selfie\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: Tue Jun 07 2016 17:02:03 GMT+0300\n"
+"POT-Revision-Date: Wed Jun 08 2016 19:29:44 GMT+0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#. Name of the plugin
+msgid "API.BIO Captchelfie - Captcha by Selfie"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://api.bio/captchelfie"
+msgstr ""
+
+#. Description of the plugin
+msgid "Captchelfie - Captcha by Selfie. Now with social capabilities."
+msgstr ""
+
+#. Author of the plugin
+msgid "Alexey Trofimov"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://api.bio"
+msgstr ""
+
+#: ../captchelfie.php:31
+msgid "Settings"
+msgstr ""
+
+#: ../captchelfie.php:129
+msgid "To use API.BIO Captchelfie you should get the application key from"
+msgstr ""
+
+#: ../captchelfie.php:130
+msgid "API.BIO"
+msgstr ""
+
+#: ../captchelfie.php:131
+msgid ", enter it on the"
+msgstr ""
+
+#: ../captchelfie.php:133
+msgid "plugin setting page"
+msgstr ""
+
+#: ../captchelfie.php:134
+msgid ", and save settings. "
+msgstr ""
+
+#: ../captchelfie.php:135
+msgid ""
+"<br>Please do not forget to configure the application <strong>Authenticated "
+"domain</strong> field to <strong>"
+msgstr ""
+
+#: ../captchelfie.php:173
+msgid "to Captchelfie"
+msgstr ""
+
+#: ../captchelfie.php:174
+msgid "to Standard Captcha"
+msgstr ""
+
+#: ../captchelfie.php:175
+msgid "Waiting for video..."
+msgstr ""
+
+#: ../captchelfie.php:176
+msgid "Camera is not available"
+msgstr ""
+
+#: ../captchelfie.php:177
+msgid "Conduct Captchelfie"
+msgstr ""
+
+#: ../captchelfie.php:178
+msgid "Detect Face"
+msgstr ""
+
+#: ../captchelfie.php:179
+msgid "Face Detected<br><br>you are not a robot<br><br>:)"
+msgstr ""
+
+#: ../captchelfie.php:180
+msgid "Captcha passed - you are not a robot :)"
+msgstr ""
+
+#: ../captchelfie.php:181
+msgid "Captcha already passed - share your Selfie! (and help this website too) "
+msgstr ""
+
+#: ../captchelfie.php:182
+msgid "Share your Selfie!"
+msgstr ""
+
+#: ../captchelfie.php:183
+msgid "Ready to share! =)"
+msgstr ""
+
+#: ../captchelfie.php:184
+msgid "Face not Detected<br><br>Try again"
+msgstr ""
+
+#: ../captchelfie.php:197
+msgid "en"
+msgstr ""
+
+#: ../captchelfie.php:309 ../captchelfie.php:309 ../captchelfie.php:504
+msgid "API.BIO Captchelfie"
+msgstr ""
+
+#: ../captchelfie.php:321 ../captchelfie.php:516
+msgid "Preview"
+msgstr ""
+
+#: ../captchelfie.php:324
+msgid "API.BIO Application"
+msgstr ""
+
+#: ../captchelfie.php:324
+msgid "request at API.BIO"
+msgstr ""
+
+#: ../captchelfie.php:327
+msgid "Application Key"
+msgstr ""
+
+#: ../captchelfie.php:330
+msgid "API URL"
+msgstr ""
+
+#: ../captchelfie.php:333
+msgid "Served Forms"
+msgstr ""
+
+#: ../captchelfie.php:336
+msgid "Login form"
+msgstr ""
+
+#: ../captchelfie.php:339
+msgid "Registration form"
+msgstr ""
+
+#: ../captchelfie.php:342
+msgid "Reset password form"
+msgstr ""
+
+#: ../captchelfie.php:345
+msgid "Comments form"
+msgstr ""
+
+#: ../captchelfie.php:348
+msgid "Contact form (3rd party)"
+msgstr ""
+
+#: ../captchelfie.php:351
+msgid "Extra Options"
+msgstr ""
+
+#: ../captchelfie.php:354
+msgid "Mirror mode"
+msgstr ""
+
+#: ../captchelfie.php:357
+msgid "Show to logged users"
+msgstr ""
+
+#: ../captchelfie.php:360
+msgid "Stop on success"
+msgstr ""
+
+#: ../captchelfie.php:363
+msgid "Recent Captchelfies"
+msgstr ""
+
+#: ../captchelfie.php:363
+msgid "refresh"
+msgstr ""
+
+#: ../captchelfie.php:366
+msgid "Keep Captchelfies for"
+msgstr ""
+
+#: ../captchelfie.php:385
+msgid "In real form here is going to be the Standard Captcha you use (if any)"
+msgstr ""
+
+#: ../captchelfie.php:464
+msgid "ERROR! Please make sure the directory "
+msgstr ""
+
+#: ../captchelfie.php:464
+msgid "exists and is not write-protected."
+msgstr ""
+
+#: ../captchelfie.php:469
+msgid "Zero seconds (Sharing will be disabled)"
+msgstr ""
+
+#: ../captchelfie.php:470
+msgid "One Day"
+msgstr ""
+
+#: ../captchelfie.php:471
+msgid "Two Days"
+msgstr ""
+
+#: ../captchelfie.php:472
+msgid "Tree Days"
+msgstr ""
+
+#: ../captchelfie.php:473
+msgid "One Week"
+msgstr ""
+
+#: ../captchelfie.php:474
+msgid "Two Weeks"
+msgstr ""
+
+#: ../captchelfie.php:475
+msgid "One Month"
+msgstr ""
+
+#: ../captchelfie.php:519
+msgid "Preview shows how the Captchelfie will appear on the pages"
+msgstr ""
+
+#: ../captchelfie.php:520
+msgid ""
+"If set, camera image is going to be flipped horisontaly, camera works like a "
+"miror"
+msgstr ""
+
+#: ../captchelfie.php:521
+msgid ""
+"If set, Captchelfie appears for logged users too - good for testing your "
+"pages"
+msgstr ""
+
+#: ../captchelfie.php:522
+msgid "If set, user can not play more after successfully passing the Captchelfie"
+msgstr ""
+
+#: ../captchelfie.php:523
+msgid "If set, WP Login Form will be served"
+msgstr ""
+
+#: ../captchelfie.php:524
+msgid "If set, WP Register Form will be served"
+msgstr ""
+
+#: ../captchelfie.php:525
+msgid "If set, WBS Contact Form will be served"
+msgstr ""
+
+#: ../captchelfie.php:526
+msgid "If set, WP Comment Form will be served"
+msgstr ""
+
+#: ../captchelfie.php:527
+msgid "If set, WP Reset Password Form will be served"
+msgstr ""
+
+#: ../captchelfie.php:528
+msgid "The Application Key. this field may not be empty!"
+msgstr ""
+
+#: ../captchelfie.php:529
+msgid "Application Program Interface URL to call"
+msgstr ""
+
+#: ../captchelfie.php:530
+msgid ""
+"Recent Captchelfies taken by your visitors. Visitors suppose to expect taken "
+"picture is going to be stored"
+msgstr ""
+
+#: ../captchelfie.php:531
+msgid ""
+"Time period for how long the Recent Captchelfies are going to be kept on the "
+"server. Old ones are erased when Captchelfie is taken."
+msgstr ""
